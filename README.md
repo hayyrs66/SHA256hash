@@ -9,7 +9,7 @@ This is a simple user registration system implemented in C++ using OpenSSL for p
 1. Clone my repository
 
 ```bash
-  https://github.com/hayyrs66/SHA256hash
+  git clone https://github.com/hayyrs66/SHA256hash
   cd SHA256hash
 ```
 
