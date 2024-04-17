@@ -13,7 +13,7 @@ This is a simple user registration system implemented in C++ using OpenSSL for p
   cd SHA256hash
 ```
 
-2. Install Crypto++ library and development package:
+2. Install Crypto++ library:
    ```bash
     sudo dnf install cryptopp cryptopp-devel
     ```
